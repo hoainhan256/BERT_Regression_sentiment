@@ -1,0 +1,7 @@
+venv/
+*.env
+*.pt
+*.json
+*.pkl
+*.csv
+*.npz
